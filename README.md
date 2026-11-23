@@ -2,7 +2,7 @@
 
 Módulo de rebalanceo de portafolios de inversión: dado un portafolio y una distribución objetivo, indica qué acciones comprar y cuáles vender para alcanzarla.
 
-Desarrollado como **prueba técnica para Fintual** por [Natalia Díaz](https://www.ndiaz.dev).
+Proyecto enfocado en modelado de dominio, TDD, arquitectura en capas y desarrollo Full Stack utilizando un caso práctico de rebalanceo de portafolios de inversión, desarrollado por [Natalia Díaz](https://www.ndiaz.dev).
 
 - **Demo en línea:** <https://rebalancer.ndiaz.dev>
 - **Repositorio:** <https://github.com/nataliadiazoyarzun/portfolio-rebalancer>
@@ -31,20 +31,6 @@ Capturas tomadas de la demo desplegada.
 ## Uso de IA durante el desarrollo
 
 El proyecto se desarrolló con apoyo de un asistente de IA para análisis, diseño y generación de código bajo supervisión. El detalle de qué herramientas se usaron, cómo y qué decisiones fueron de la autora está en [docs/llm-conversations.md](docs/llm-conversations.md).
-
-## Conversaciones completas de IA
-
-Además del resumen, se conserva el historial completo de las conversaciones en orden cronológico: decisiones de diseño, modelado del dominio, TDD, API, frontend, accesibilidad, despliegue y README.
-
-- Índice: [docs/llm-full-transcript.md](docs/llm-full-transcript.md)
-- Transcripciones por tema, en [docs/llm-transcripts/](docs/llm-transcripts/):
-  [01 diseño](docs/llm-transcripts/01-design.md) ·
-  [02 dominio y TDD](docs/llm-transcripts/02-domain-tdd.md) ·
-  [03 API](docs/llm-transcripts/03-api.md) ·
-  [04 frontend](docs/llm-transcripts/04-frontend.md) ·
-  [05 README](docs/llm-transcripts/05-readme.md) ·
-  [06 despliegue](docs/llm-transcripts/06-deployment.md) ·
-  [07 cierre](docs/llm-transcripts/07-closing-docs.md)
 
 ## El problema
 
@@ -143,7 +129,6 @@ portfolio-rebalancer/
 ├── docs/
 │   ├── llm-conversations.md           # Uso de IA durante el desarrollo (resumen)
 │   ├── llm-full-transcript.md         # Índice de las conversaciones completas
-│   ├── llm-transcripts/               # Transcripciones por tema (01 a 07)
 │   └── screenshots/                   # Capturas de la demo
 └── README.md
 ```
@@ -332,5 +317,7 @@ Esta distinción evita errores 500 por `TypeError` y deja claro quién debe corr
 ## Sobre la autora
 
 **Natalia Díaz**
-Senior Software Engineer
-<https://www.ndiaz.dev>
+
+Senior Software Engineer con experiencia en arquitectura de software, integración de sistemas, liderazgo técnico y desarrollo Full Stack.
+
+Portafolio profesional: https://ndiaz.dev

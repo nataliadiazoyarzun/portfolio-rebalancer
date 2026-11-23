@@ -1,6 +1,6 @@
 # Uso de IA durante el desarrollo
 
-Este documento describe cómo se utilizó inteligencia artificial en el desarrollo de **Portfolio Rebalancer**, una prueba técnica para Fintual. Se incluye para que quien revise el proyecto sepa qué parte nació de la asistencia y qué parte fue decisión propia.
+Este documento describe cómo se utilizó inteligencia artificial durante el desarrollo de **Portfolio Rebalancer**. El objetivo es dejar trazabilidad del proceso de construcción de la solución, indicando qué tareas contaron con asistencia de IA y cuáles correspondieron a decisiones técnicas, validaciones y criterios de implementación definidos por la autora.
 
 ## Herramientas utilizadas
 

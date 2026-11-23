@@ -4,3 +4,4 @@ dist/
 .env
 .phpunit.cache/
 .phpunit.result.cache
+internal/

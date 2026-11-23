@@ -52,7 +52,7 @@ export default function App() {
         <div className="container app-container">
           <p className="app-eyebrow mb-2">Natalia Díaz · Senior Software Engineer</p>
           <h1 className="display-6 fw-bold mb-1">Portfolio Rebalancer</h1>
-          <p className="app-subtitle mb-3">Prueba técnica desarrollada para Fintual.</p>
+          <p className="app-subtitle mb-3">Aplicación Full Stack para generar recomendaciones de rebalanceo de portafolios de inversión.</p>
           <nav aria-label="Enlaces del proyecto">
             <ul className="list-inline mb-0">
               <li className="list-inline-item me-3">
